@@ -1,13 +1,14 @@
-git init 
-git init 
-git init 
-git init 
-git init 
-git init 
+git init. ...
+git init. ...
+git init. ...
+git init. ...
+git init. ...
+git init. ...
+
+git commit -m commit "Fisrt commit !!"
+git commit -m commit "Fisrt commit !!"
+git commit -m commit "Fisrt commit !!"
+git commit -m commit "Fisrt commit !!"
 
 
 
-git commit
-git commit
-git commit
-git commit
